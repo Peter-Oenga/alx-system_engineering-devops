@@ -1,2 +1,2 @@
 #!/bin/bash
- echo $(($((5**2)) \ 3))
+echo $(($POWER / $DIVIDE))
